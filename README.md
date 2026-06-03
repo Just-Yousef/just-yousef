@@ -3,7 +3,7 @@
 
 <!-- PROFILE VIEW AND FOLLOWERS -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=just-yousef&label=Profile_views&color=0ED7FF&style=flat" alt="profile-views-count"/>
+  <img src="https://komarev.com/ghpvc/?username=Just-Yousef&label=Profile_views&color=0ED7FF&style=flat" alt="profile-views-count"/>
 </p>
 
 <!-- QUICK INTRO ABOUT ME -->
@@ -24,20 +24,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 Statistics
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=just-yousef&theme=blueberry" width="46%" />
-<img align="right" src="https://streak-stats.vercel.app/?user=just-yousef&theme=blueberry&hide_border=true&card_height=250&background=0d1117" width="46%" alt="GitHub Streak" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Just-Yousef&theme=blueberry" width="46%" />
+<img align="right" src="https://streak-stats.vercel.app/?user=Just-Yousef&theme=blueberry&hide_border=true&card_height=250&background=0d1117" width="46%" alt="GitHub Streak" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=just-yousef&theme=blueberry" width="47%" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=just-yousef&theme=blueberry" width="47%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Just-Yousef&theme=blueberry" width="47%" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Just-Yousef&theme=blueberry" width="47%" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=just-yousef&theme=github_dark" style="height: 300px"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-Yousef&theme=github_dark" style="height: 300px"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
 <p align="left" style="vertical-align:top; margin:4px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=just-yousef&theme=onestar&column=-1&margin-w=15&margin-h=15&no-frame=true" alt="just-yousef GitHub trophies" />
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Just-Yousef&theme=onestar&column=-1&margin-w=15&margin-h=15&no-frame=true" alt="Just-Yousef GitHub trophies" />
   </a>
 </p>
 
