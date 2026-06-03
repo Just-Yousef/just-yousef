@@ -44,7 +44,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## ✍️ C2 Favorite Quotes ♻️
+## ✍️ YOUSEF Favorite Quotes ♻️
 <div align="center">
   <h3 style="color: #ffd700; font-weight: bold;">"THE SOURCE OF WISDOM IS PAIN"</h3>
 </div>
